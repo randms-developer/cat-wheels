@@ -5,9 +5,9 @@ It was developed as one of my first game development projects at the age of 11.
 
 Built with Unity.
 
-## Download
-The playable build is available in this repository:
-- Download the .rar file and extract it to play
+## Play the Game
+You can play or download the game here:  
+https://randmsdev.itch.io/cat-wheels
 
 ## Features
 - Basic character movement
@@ -17,15 +17,12 @@ The playable build is available in this repository:
 - Fundamentals of game logic
 - Basic game development using Unity
 
-## Play Online
-https://randmsdev.itch.io/cat-wheels
-
 ## Author
 Joaquin Baldeón  
 Developed under the name **Blaite Studios**
 
 ## Note
 The original Unity project files are no longer available.  
-This repository contains the final playable build of the game.
+This repository serves as a showcase of the final playable build.
 
 This project represents my starting point in programming. I am currently working on more advanced projects.
